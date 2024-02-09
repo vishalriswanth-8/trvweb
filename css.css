@@ -1,0 +1,52 @@
+h1{
+   color: rgb(238, 9, 9);
+   
+   
+   flex-wrap: wrap;
+   justify-content: center;
+   font-style: italic;
+}
+span{
+    color: #c9ff06;
+    font-style: normal;
+}
+
+
+#well{
+    display: flex;
+    justify-content: center;
+    align-items:self-start;
+    flex-direction: row;
+    
+    
+    background-color: rgb(228, 151, 177);
+}
+#about{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-around;
+    font-size: larger;
+}
+#body{
+    background-color: rgb(139, 207, 151);
+}
+#ovh{
+    color: #e26009;
+}
+#contact{
+    background-color: #c9ff06;
+}
+.h2{
+color: #ee6205;
+}
+.se{
+    color: #4e0ec5;
+}
+#contact{
+    display: flex;
+    justify-content:space-around;
+}
+.po{
+    color: #4e0ec5;
+}
